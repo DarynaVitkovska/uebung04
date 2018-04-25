@@ -43,7 +43,7 @@ class SetTest {
 	}
 
 
-	@Test
+/*	@Test
 	void testLeafIterator() {
 		SetImpl<String> impl = new SetImpl<>();
 		String str = "In Ulm und um Ulm und um Ulm herum";
@@ -61,5 +61,5 @@ class SetTest {
 
 		assertEquals(1, li.size());
 		assertEquals("herum", li.get(0));
-	}
+	}*/
 }
